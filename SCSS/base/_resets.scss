@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "general";
+    src: url("../assets/Kanit/Kanit-LightItalic.ttf");
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: "general";
+}
+
+.body{
+    background-color: rgb(199, 114, 44, 0.726);
+}
